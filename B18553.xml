@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of a murther in Hertfordshire. Found amongst the papers of that eminent lawyer, Sir John Maynard, late one of the Lords Commissioners of the Great Seal of England.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18553</idno><idno type="EEBO-CITATION">99886924</idno>
+  <idno type="VID">189669</idno>
+  <idno type="EEBO-PROQUEST">2240882104</idno>
+  
+            <idno type="STC">Wing C872</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[175]</idno>
+            <idno type="STC">ESTC R226781</idno>
+            <idno type="PROQUEST">ocm99886924</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886924e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189669)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[176])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of a murther in Hertfordshire. Found amongst the papers of that eminent lawyer, Sir John Maynard, late one of the Lords Commissioners of the Great Seal of England.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Maynard, John, --  Sir, 1602-1690 --  Early works to 1800.</term>
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:189669:1"/>
+            <pb facs="tcp:189669:1"/>
+            <head>THE CASE OF A <hi>MVRCHER</hi> IN Hertfordshire. Found amongst the Papers of that Eminent Lawyer, Sir <hi>John Maynard,</hi> late one of the Lords Commissioners of the Great Seal of <hi>ENGLAND.</hi>
+            </head>
+            <p>THE Case, or rather History of a Case, that happened in the County of <hi>Hert<g ref="char:EOLhyphen"/>ford,</hi> I thought good to report here, tho' it happened in the Fourth Year of King <hi>Charles</hi> the First, that the memory of it may not be lost, by Mis<g ref="char:EOLhyphen"/>carriage of my Papers, or otherwise. I wrote the Evidence that was given, which I, and many others did hear, and I wrote it exactly according to what was deposed at the Tryal, at the Bar of the <hi>Kings-bench,</hi> viz.</p>
+            <p>
+               <hi>Johan Norkott,</hi> Wife of <hi>Arthur Norkott</hi> being Murthered, the Question was, How she came by her Death? The Coroner's Inquest on view of the Body and Depositions of <hi>Mary Norkott, John Okeman,</hi> and <hi>Agnes</hi> his Wife, inclin'd to find <hi>Johan Norkott</hi> Felon <hi>de se:</hi> for they informed the <hi>Coroner</hi> and <hi>Jury</hi> that she was found Dead in her Bed, the knife sticking in the floor, and her Throat Cut. That the Night before she went to Bed with her Child.</p>
+            <p>
+               <hi>Plantiff.</hi> In this appeal, her Husband being absent, and that no other Person after such time as she was gone to Bed, came into the House, the Examinants lying in the outer Room, and they must needs have seen or known, if any Stranger had come in;— Whereupon the <hi>Jury</hi> gave up to the <hi>Coroner</hi> their Verdict, that she was Felon <hi>de se;</hi> but afterwards upon rumor among the Neighbourhood, and their Observation of divers Circumstances, which manifested, that she did not, nor according to those circumstan<g ref="char:EOLhyphen"/>ces could possibly Murther her self; thereupon the <hi>Jury,</hi> whose Verdict was not yet drawn into form by the <hi>Coroner,</hi> desired the <hi>Coroner</hi> that the Body which was Buried might be taken up out of the Grave, which the <hi>Coroner</hi> assented to, and 30 days after her Death, she was taken up in the presence of the <hi>Jury</hi> and a great Number of the People; whereupon the <hi>Jury</hi> chang'd their Verdict; the Persons being Tryed at <hi>Hert<g ref="char:EOLhyphen"/>ford</hi> Assizes were acquitted. But so much against the Evidence, that Judge <hi>Harvey</hi> let fall his opinion, that it were better an appeal were brought, than so foul a Murther escape unpunished; and <hi>Pascha</hi> 4. <hi>Car.</hi> They were tryed on the appeal, which was brought by the Young Child against his Father, Grandmother and Aunt, and her Husband <hi>Okeman;</hi> and because the Evidence was so strange, I took exact, and particular Notice, and it was as follows, <hi>viz.</hi>
+            </p>
+            <p>After the matters above mentioned related, an Ancient and Grave Per<g ref="char:EOLhyphen"/>son, Minister to the Parish where the Fact was committed (being Sworn to give Evi<g ref="char:EOLhyphen"/>dence according to Custom) deposed, that the Body being taken up out of the Grave 30 days after the parties Death, and lying on the Grass, and the four Defendants pressed, they were required each of them to touch the dead Body; <hi>Okeman's</hi> Wife fell upon her knees and prayed God to shew token of her Innocency, or to some such purpose: her very words I have forgot. The Appellees did touch the Dead Body, whereupon the Brow of the Dead, which was before a Livid and Carrion Colour, (that was the Verbal expression in Terminis of the Witness,) began to have a Dew, or gentle Sweat arise on it, which increas'd by degrees, till the Sweat ran down in drops on the Face, the
+<pb facs="tcp:189669:2"/>Brow turn'd and chang'd to a lively and Fresh Colour, and the Dead opened one of her Eyes, and shut it again; and this opening the Eye was done three several times; she likewise thrust out the Ring or Marriage Finger 3 times, and pulled it in again, and the Finger dropped Blood from it on the Grass.</p>
+            <p>Sir <hi>Nich. Hide,</hi> Chief Justice, seeming to doubt the Evidence, ask'd the <hi>Witness,</hi> Who saw this besides you?</p>
+            <p>
+               <hi>Witness.</hi> I cannot Swear what others saw, but My Lord (said he) I do believe the whole Company saw it; and if it had been thought a doubt, proof would have been made of it, and many would have attested with me. Then the <hi>Witness</hi> observing some Admiration in the Auditors, he spake farther,</p>
+            <p>My Lord, I am Minister of the Parish, and have long known all the Parties, but ne<g ref="char:EOLhyphen"/>ver had any occasion of displeasure against any of them, nor had to do with them, or they with me but as I was Minister. The thing was wonderful to me, but I have no In<g ref="char:EOLhyphen"/>terest in the matter, but as called upon to testifie the truth, and that I have done.</p>
+            <p>This Witness was a very Reverend Person, as I Guess'd was about 70 Years of Age: his Testimony was delivered Gravely, and Temperately, but to the great Admiration of the Auditory; whereupon applying himself to the Chief Justice, he said,</p>
+            <p>My Lord, my Brother here present, is Minister of the next Parish adjacent, and I am assur'd saw all done that I have affirmed; therefore that Person was also Sworn to give Evidence, and did depose in every point, <hi>viz.</hi> The Sweating of the Brow, the change of its colour, opening of the Eve, and the thrice motion of the Finger, and drawing it in again; only the first <hi>Witness</hi> added, that he himself dipped his Finger in the Blood which came from the dead Body to examine it, and he Sware he believed it was Blood: I conferred afterwards with Sir <hi>Edmund Powell,</hi> Barrister at Law, and o<g ref="char:EOLhyphen"/>thers, who all concurr'd in the observation; and for my self, if I were upon my Oath, can depose that these Depositions, especially the first <hi>Witness,</hi> are truly reported in Sub<g ref="char:EOLhyphen"/>stance.</p>
+            <p>The other Evidence was given against the Prisoners, <hi>viz.</hi> The Grandmother of the Plantiff, and against <hi>Okeman</hi> and his Wife, that they confest they lay in the next Room to the dead Person that Night, and that none came into the House till they found her dead the next Morning.</p>
+            <p>Therefore if she did not Murther her self, they must be the Murtherers: To that end further Proof was made.</p>
+            <p>First, that she lay in a compos'd manner in her Bed, the Bed-Clothes nothing at all disturb'd, and her Child by her in Bed.</p>
+            <p>Secondly, Her Throat cut from Ear to Ear, and her Neck broken; and if she first cut her Throat, she could not break her Neck in the Bed, nor Contra.</p>
+            <p>Thirdly, There was no Blood in the Bed, saving there was a Tincture of Blood on the Bolster, whereon her Head lay; but no Substance of Blood at all.</p>
+            <p>Fourthly, From the Beds-head there was a stream of Blood on the Floor which run along till it Ponded in the bendings of the Floor to a very great quantity; and there was also another stream of Blood on the Floor at the Beds feet, which Ponded also on the Floor to another great quantity, but no continuance or communication of Blood of either of these two places, from one to the other, neither upon the Bed; so that she bled in two places severally; and it was deposed, turning up the Matt of the Bed, there was Clotts of conjealed Blood in the straw of the Matt underneath.</p>
+            <p>Fifthly, The bloody knife was found in the morning, sticking in the Floor, a good distance from the Bed, but the Point of the knife as it stuck was towards the Bed, and the Haft from the Bed.</p>
+            <p>Lastly, There was a print of a Thumb and four Fingers of a left hand. Sir <hi>Nich. Hide</hi> Chief Justice said to the Witness, How can you know the print of a Left hand from the print of a Right hand in such a case?</p>
+            <p>
+               <hi>Witness,</hi> My Lord it is hard to describe; but if it please that Honourable Judge to put his left-hand upon your left-hand you cannot possibly place your right-hand in the same posture; which being done, and appearing so, the Defendants had time to make their defence, but gave no Evidence to any purpose. The <hi>Jury</hi> departed from the Bar, and returning acquitted <hi>Okeman,</hi> and found the other three Guilty, who being severally demanded what they could say, why Judgment should not be pronounced, said nothing, but each of them said, I did not do it, I did not do it.</p>
+            <p>Judgment was given, and the Grandmother, and the Husband Executed; but the Aunt had the priviledge to be spared Execution, being with Child.</p>
+            <p>I inquired if they confest any thing at their Execution, but did not as I was told.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1699.</p>
+            <pb facs="tcp:189669:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
